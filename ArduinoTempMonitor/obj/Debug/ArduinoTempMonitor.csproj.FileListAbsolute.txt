@@ -1,0 +1,15 @@
+E:\CPUAndGPUTemp\ArduinoTempMonitor\obj\Debug\ArduinoTempMonitor.csproj.AssemblyReference.cache
+E:\CPUAndGPUTemp\ArduinoTempMonitor\obj\Debug\ArduinoTempMonitor.Properties.Resources.resources
+E:\CPUAndGPUTemp\ArduinoTempMonitor\obj\Debug\ArduinoTempMonitor.csproj.GenerateResource.cache
+E:\CPUAndGPUTemp\ArduinoTempMonitor\obj\Debug\ArduinoTempMonitor.csproj.CoreCompileInputs.cache
+E:\CPUAndGPUTemp\ArduinoTempMonitor\bin\Debug\ArduinoTempMonitor.exe.config
+E:\CPUAndGPUTemp\ArduinoTempMonitor\bin\Debug\ArduinoTempMonitor.exe
+E:\CPUAndGPUTemp\ArduinoTempMonitor\bin\Debug\ArduinoTempMonitor.pdb
+E:\CPUAndGPUTemp\ArduinoTempMonitor\bin\Debug\LibreHardwareMonitorLib.dll
+E:\CPUAndGPUTemp\ArduinoTempMonitor\bin\Debug\System.Memory.dll
+E:\CPUAndGPUTemp\ArduinoTempMonitor\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\CPUAndGPUTemp\ArduinoTempMonitor\bin\Debug\System.Numerics.Vectors.dll
+E:\CPUAndGPUTemp\ArduinoTempMonitor\bin\Debug\System.Buffers.dll
+E:\CPUAndGPUTemp\ArduinoTempMonitor\obj\Debug\ArduinoT.A37C6CAF.Up2Date
+E:\CPUAndGPUTemp\ArduinoTempMonitor\obj\Debug\ArduinoTempMonitor.exe
+E:\CPUAndGPUTemp\ArduinoTempMonitor\obj\Debug\ArduinoTempMonitor.pdb
